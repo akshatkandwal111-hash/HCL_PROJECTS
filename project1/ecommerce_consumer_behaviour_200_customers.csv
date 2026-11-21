@@ -1,0 +1,201 @@
+Customer_ID,Name,Age,Gender,City,Category,Amount,Payment,Frequency,Rating
+1,Neha Sharma,35,Male,Gurgaon,Clothing,2900,Wallet,Daily,5
+2,Diya Verma,19,Male,Gurgaon,Clothing,13200,Wallet,Daily,5
+3,Aman Chauhan,32,Female,Faridabad,Footwear,400,Card,Rarely,3
+4,Pooja Kumar,31,Female,Noida,Electronics,10000,UPI,Monthly,3
+5,Kunal Malhotra,20,Female,Noida,Books,2300,Wallet,Monthly,5
+6,Kavya Yadav,22,Male,Gurgaon,Footwear,7700,UPI,Weekly,1
+7,Manish Malhotra,47,Female,Ghaziabad,Beauty,9300,Card,Monthly,1
+8,Kunal Mehta,52,Male,Ghaziabad,Books,10000,Cash,Weekly,3
+9,Ananya Jain,20,Female,Jaipur,Beauty,1900,Card,Monthly,2
+10,Shreya Kapoor,59,Female,Ghaziabad,Beauty,3800,Card,Monthly,5
+11,Diya Kapoor,41,Male,Ghaziabad,Sports,12900,UPI,Daily,1
+12,Ishita Mehta,45,Male,Jaipur,Books,12200,Wallet,Monthly,5
+13,Aarav Singh,52,Female,Meerut,Electronics,7800,Net Banking,Weekly,4
+14,Aarav Malhotra,50,Male,Noida,Footwear,7900,Wallet,Weekly,2
+15,Kavya Mehta,52,Male,Meerut,Books,700,UPI,Monthly,3
+16,Mehak Verma,33,Male,Noida,Home & Kitchen,12700,UPI,Weekly,2
+17,Mohit Mehta,34,Female,Gurgaon,Sports,5400,Cash,Rarely,3
+18,Rajat Bansal,25,Male,Gurgaon,Electronics,8900,UPI,Weekly,5
+19,Kabir Sharma,22,Male,Gurgaon,Electronics,1100,Cash,Daily,5
+20,Mehak Malhotra,60,Female,Gurgaon,Sports,3600,Wallet,Rarely,2
+21,Mohit Chauhan,30,Male,Noida,Home & Kitchen,11300,Cash,Rarely,4
+22,Aisha Verma,59,Male,Delhi,Books,8900,UPI,Weekly,2
+23,Aman Bansal,26,Female,Ghaziabad,Beauty,12100,Card,Daily,4
+24,Muskan Singh,21,Male,Noida,Footwear,6300,Card,Rarely,4
+25,Mohit Yadav,43,Male,Ghaziabad,Books,300,Net Banking,Monthly,4
+26,Varun Chauhan,53,Female,Ghaziabad,Clothing,7800,Card,Daily,5
+27,Sahil Verma,38,Male,Delhi,Sports,12500,Wallet,Weekly,1
+28,Nikhil Gupta,29,Male,Noida,Home & Kitchen,6300,Net Banking,Daily,5
+29,Mehak Verma,57,Male,Jaipur,Home & Kitchen,14700,Wallet,Monthly,3
+30,Sneha Khan,33,Female,Jaipur,Clothing,7900,Net Banking,Monthly,1
+31,Aarav Bansal,57,Male,Noida,Sports,5700,Wallet,Monthly,2
+32,Dev Gupta,33,Female,Faridabad,Clothing,11500,Wallet,Monthly,5
+33,Aditi Sharma,60,Female,Noida,Clothing,7000,UPI,Daily,5
+34,Ishita Malhotra,36,Male,Meerut,Clothing,7000,Wallet,Rarely,3
+35,Ananya Gupta,58,Female,Faridabad,Electronics,300,Cash,Weekly,3
+36,Vikas Bansal,53,Female,Delhi,Electronics,2200,Card,Daily,3
+37,Ira Kumar,45,Male,Delhi,Beauty,9600,UPI,Monthly,2
+38,Mehak Singh,40,Female,Ghaziabad,Clothing,4400,Card,Rarely,1
+39,Riya Khan,44,Male,Faridabad,Clothing,3000,Net Banking,Daily,4
+40,Kabir Yadav,47,Female,Faridabad,Footwear,6100,Card,Daily,2
+41,Sakshi Khan,35,Male,Faridabad,Beauty,13300,Net Banking,Monthly,1
+42,Neha Malhotra,29,Female,Delhi,Electronics,11400,Cash,Monthly,4
+43,Kunal Singh,42,Male,Faridabad,Electronics,11400,UPI,Weekly,3
+44,Diya Gupta,60,Female,Meerut,Home & Kitchen,3400,Cash,Monthly,4
+45,Yash Kapoor,36,Male,Gurgaon,Books,10000,Card,Monthly,4
+46,Muskan Sharma,37,Female,Gurgaon,Books,8500,Net Banking,Rarely,4
+47,Sneha Saxena,28,Male,Faridabad,Sports,8800,UPI,Weekly,3
+48,Kabir Yadav,27,Male,Delhi,Clothing,12400,Wallet,Daily,4
+49,Harsh Yadav,42,Female,Jaipur,Clothing,4000,UPI,Daily,4
+50,Kabir Mehta,51,Female,Delhi,Sports,6600,UPI,Rarely,2
+51,Aisha Khan,46,Female,Lucknow,Clothing,12400,Net Banking,Monthly,2
+52,Pooja Saxena,58,Male,Faridabad,Books,2200,Cash,Weekly,3
+53,Nisha Khan,52,Male,Ghaziabad,Clothing,6200,Net Banking,Weekly,2
+54,Rohit Chauhan,44,Female,Lucknow,Books,1800,Card,Rarely,4
+55,Ira Sharma,54,Female,Lucknow,Electronics,9300,Cash,Rarely,4
+56,Sahil Jain,49,Male,Faridabad,Books,12700,UPI,Rarely,3
+57,Sakshi Mehta,47,Male,Delhi,Books,14700,UPI,Daily,4
+58,Arjun Bansal,29,Male,Faridabad,Books,8600,Card,Rarely,3
+59,Nisha Kapoor,35,Female,Faridabad,Footwear,2300,Net Banking,Daily,5
+60,Ananya Mishra,32,Male,Delhi,Footwear,1000,Card,Weekly,1
+61,Jhanvi Kumar,33,Male,Lucknow,Home & Kitchen,3200,Wallet,Weekly,4
+62,Aditya Mishra,28,Male,Ghaziabad,Beauty,3000,Wallet,Daily,3
+63,Ankit Kapoor,43,Male,Noida,Sports,6500,UPI,Monthly,5
+64,Neha Verma,40,Female,Meerut,Electronics,13200,Cash,Daily,4
+65,Shreya Singh,45,Female,Lucknow,Home & Kitchen,4200,Net Banking,Weekly,5
+66,Pooja Saxena,47,Female,Faridabad,Beauty,6500,UPI,Monthly,4
+67,Mehak Bansal,54,Female,Meerut,Electronics,12900,Cash,Weekly,4
+68,Sneha Mishra,34,Female,Faridabad,Sports,7300,Wallet,Daily,5
+69,Aman Gupta,33,Female,Lucknow,Sports,6400,Net Banking,Rarely,4
+70,Rahul Gupta,36,Male,Jaipur,Home & Kitchen,6500,Cash,Monthly,4
+71,Muskan Mishra,45,Female,Meerut,Home & Kitchen,11900,Cash,Monthly,3
+72,Kabir Singh,30,Female,Noida,Home & Kitchen,14000,Card,Weekly,2
+73,Mohit Malhotra,55,Female,Noida,Footwear,5200,Cash,Weekly,3
+74,Riya Agarwal,18,Male,Faridabad,Electronics,1600,Wallet,Monthly,2
+75,Shreya Singh,18,Female,Lucknow,Books,11500,Cash,Weekly,1
+76,Aditya Saxena,25,Male,Jaipur,Books,2100,Wallet,Daily,2
+77,Ishita Agarwal,23,Male,Noida,Sports,10900,Wallet,Weekly,5
+78,Manish Bansal,46,Female,Jaipur,Beauty,14800,Wallet,Daily,5
+79,Karan Yadav,58,Male,Faridabad,Home & Kitchen,2300,Card,Weekly,2
+80,Muskan Gupta,28,Male,Jaipur,Books,12300,Cash,Daily,2
+81,Varun Agarwal,47,Male,Gurgaon,Beauty,5300,Net Banking,Daily,5
+82,Kabir Kumar,35,Male,Noida,Electronics,4500,Cash,Monthly,4
+83,Neha Bansal,37,Female,Faridabad,Sports,14100,Net Banking,Rarely,1
+84,Kunal Verma,45,Female,Faridabad,Electronics,2600,Card,Daily,3
+85,Ankit Verma,29,Female,Lucknow,Beauty,4900,Wallet,Rarely,4
+86,Simran Saxena,40,Female,Meerut,Beauty,2900,Card,Monthly,4
+87,Shreya Agarwal,60,Female,Delhi,Books,2500,Cash,Monthly,3
+88,Neha Kapoor,50,Male,Lucknow,Books,1600,Card,Monthly,5
+89,Shreya Bansal,21,Male,Faridabad,Sports,3600,Cash,Rarely,4
+90,Neha Sharma,58,Male,Ghaziabad,Beauty,14400,UPI,Rarely,1
+91,Kabir Singh,47,Male,Ghaziabad,Books,7700,Wallet,Monthly,4
+92,Mohit Saxena,33,Female,Ghaziabad,Books,5100,Wallet,Weekly,1
+93,Pooja Chauhan,39,Female,Delhi,Beauty,7900,Wallet,Rarely,2
+94,Rajat Saxena,40,Female,Jaipur,Books,8500,Card,Weekly,5
+95,Manish Jain,44,Male,Meerut,Home & Kitchen,12400,Net Banking,Rarely,2
+96,Shreya Verma,26,Female,Noida,Footwear,11500,UPI,Rarely,1
+97,Ishita Chauhan,59,Male,Noida,Books,7000,Cash,Rarely,1
+98,Nisha Kapoor,38,Female,Delhi,Sports,2000,Card,Monthly,2
+99,Simran Chauhan,24,Male,Lucknow,Clothing,7900,UPI,Daily,3
+100,Ananya Agarwal,40,Female,Jaipur,Clothing,6500,Wallet,Rarely,5
+101,Riya Mehta,29,Male,Jaipur,Sports,6400,Net Banking,Weekly,2
+102,Aisha Malhotra,47,Female,Delhi,Footwear,12200,Cash,Weekly,1
+103,Rajat Mishra,55,Female,Jaipur,Home & Kitchen,6700,Net Banking,Monthly,2
+104,Manish Saxena,24,Male,Jaipur,Sports,9400,Wallet,Monthly,3
+105,Rahul Kapoor,35,Male,Delhi,Sports,13000,Cash,Weekly,5
+106,Dev Jain,58,Male,Faridabad,Home & Kitchen,3800,UPI,Daily,3
+107,Rajat Verma,55,Female,Ghaziabad,Electronics,7800,Cash,Rarely,2
+108,Aman Kumar,52,Female,Faridabad,Footwear,4500,Cash,Rarely,3
+109,Nisha Singh,47,Male,Ghaziabad,Footwear,6000,Net Banking,Monthly,1
+110,Sakshi Sharma,34,Male,Lucknow,Beauty,7000,Wallet,Rarely,3
+111,Karan Jain,48,Male,Meerut,Sports,5900,UPI,Rarely,3
+112,Harsh Singh,26,Male,Delhi,Beauty,12900,UPI,Daily,2
+113,Sahil Kumar,42,Female,Meerut,Home & Kitchen,14100,Net Banking,Weekly,4
+114,Karan Saxena,57,Female,Faridabad,Electronics,9700,Card,Rarely,4
+115,Mehak Mishra,24,Female,Meerut,Electronics,10400,Cash,Weekly,1
+116,Aisha Gupta,60,Male,Delhi,Electronics,8800,Card,Weekly,5
+117,Sneha Gupta,53,Male,Gurgaon,Footwear,6200,Cash,Weekly,5
+118,Aarav Malhotra,27,Male,Faridabad,Footwear,4700,UPI,Daily,2
+119,Aarav Mishra,33,Female,Delhi,Clothing,7000,UPI,Weekly,4
+120,Aditi Singh,22,Female,Lucknow,Footwear,9500,Wallet,Daily,4
+121,Nikhil Jain,57,Male,Faridabad,Books,1000,UPI,Rarely,4
+122,Diya Singh,49,Female,Noida,Electronics,8500,Wallet,Weekly,1
+123,Arjun Malhotra,57,Female,Jaipur,Sports,13800,Cash,Rarely,5
+124,Kunal Chauhan,24,Male,Gurgaon,Books,11800,Card,Rarely,3
+125,Aisha Kapoor,44,Male,Meerut,Books,8300,Cash,Monthly,2
+126,Mohit Gupta,23,Male,Noida,Books,2700,Cash,Weekly,5
+127,Ananya Khan,60,Male,Jaipur,Beauty,11100,UPI,Monthly,5
+128,Tanya Mishra,24,Male,Ghaziabad,Home & Kitchen,12600,Card,Daily,3
+129,Muskan Mishra,25,Female,Gurgaon,Footwear,11200,Wallet,Daily,5
+130,Pooja Sharma,29,Female,Faridabad,Beauty,9200,UPI,Weekly,2
+131,Ankit Kapoor,22,Male,Delhi,Electronics,13800,Card,Rarely,4
+132,Aisha Khan,28,Female,Faridabad,Home & Kitchen,8600,Wallet,Daily,1
+133,Ishita Mehta,57,Male,Noida,Beauty,11600,Net Banking,Rarely,5
+134,Rajat Chauhan,35,Male,Noida,Beauty,11300,UPI,Monthly,5
+135,Shreya Agarwal,20,Male,Jaipur,Sports,1700,UPI,Weekly,3
+136,Sneha Kumar,34,Female,Meerut,Electronics,400,Net Banking,Rarely,2
+137,Arjun Kapoor,52,Male,Meerut,Electronics,10400,UPI,Rarely,1
+138,Aisha Gupta,38,Female,Jaipur,Home & Kitchen,10900,Cash,Daily,4
+139,Rahul Khan,28,Female,Meerut,Electronics,11400,UPI,Weekly,4
+140,Ira Kapoor,51,Male,Jaipur,Footwear,8200,Cash,Weekly,3
+141,Vikas Gupta,50,Male,Gurgaon,Footwear,9200,Cash,Weekly,2
+142,Karan Kumar,34,Male,Ghaziabad,Sports,4200,UPI,Weekly,4
+143,Aisha Bansal,54,Female,Meerut,Clothing,11500,UPI,Rarely,4
+144,Tanya Malhotra,55,Male,Meerut,Sports,2100,Cash,Rarely,4
+145,Priya Verma,41,Female,Noida,Home & Kitchen,2600,Wallet,Rarely,4
+146,Ira Verma,46,Male,Meerut,Sports,12400,Wallet,Weekly,1
+147,Rajat Singh,39,Male,Ghaziabad,Electronics,6600,Net Banking,Rarely,5
+148,Aditi Mehta,41,Female,Faridabad,Books,10700,Cash,Daily,3
+149,Rohit Khan,24,Female,Faridabad,Beauty,4100,Cash,Daily,5
+150,Ishita Mishra,37,Female,Ghaziabad,Sports,2400,Cash,Rarely,3
+151,Arjun Gupta,59,Female,Meerut,Electronics,9500,Cash,Weekly,2
+152,Nisha Saxena,30,Male,Ghaziabad,Clothing,2200,Cash,Daily,5
+153,Sahil Verma,60,Female,Ghaziabad,Sports,9900,Card,Weekly,2
+154,Jhanvi Mehta,46,Male,Jaipur,Beauty,6300,Net Banking,Monthly,4
+155,Kabir Jain,37,Female,Gurgaon,Beauty,14900,Net Banking,Rarely,3
+156,Manish Chauhan,28,Male,Ghaziabad,Footwear,6700,UPI,Rarely,3
+157,Muskan Singh,51,Male,Faridabad,Electronics,4400,Cash,Rarely,5
+158,Ishita Chauhan,23,Male,Lucknow,Beauty,900,Net Banking,Daily,4
+159,Nikhil Mishra,33,Female,Noida,Beauty,6000,UPI,Monthly,1
+160,Nisha Kumar,26,Male,Faridabad,Footwear,12300,Card,Rarely,4
+161,Jhanvi Sharma,23,Male,Faridabad,Clothing,4100,Wallet,Rarely,1
+162,Varun Jain,37,Male,Delhi,Clothing,11000,Wallet,Rarely,1
+163,Neha Saxena,56,Male,Gurgaon,Home & Kitchen,3900,Cash,Rarely,1
+164,Jhanvi Mishra,33,Female,Ghaziabad,Home & Kitchen,2400,Wallet,Monthly,1
+165,Aditi Sharma,42,Female,Delhi,Home & Kitchen,10200,Cash,Monthly,1
+166,Dev Gupta,40,Male,Noida,Footwear,8800,Card,Daily,3
+167,Sahil Khan,59,Male,Lucknow,Home & Kitchen,12500,Card,Weekly,1
+168,Aisha Verma,36,Male,Delhi,Footwear,5400,UPI,Monthly,3
+169,Nikhil Kapoor,52,Female,Faridabad,Electronics,5100,Cash,Monthly,1
+170,Nisha Malhotra,25,Female,Jaipur,Books,11500,Net Banking,Monthly,2
+171,Shreya Saxena,41,Female,Noida,Home & Kitchen,11100,UPI,Rarely,5
+172,Riya Agarwal,38,Male,Noida,Beauty,7800,Cash,Rarely,5
+173,Diya Mehta,46,Female,Lucknow,Electronics,9300,Wallet,Rarely,3
+174,Ananya Gupta,60,Female,Meerut,Sports,4300,UPI,Weekly,5
+175,Rajat Verma,26,Male,Gurgaon,Footwear,9600,Cash,Rarely,5
+176,Priya Kumar,46,Female,Meerut,Books,2200,Wallet,Weekly,5
+177,Kavya Kapoor,38,Female,Gurgaon,Electronics,900,Card,Rarely,5
+178,Manish Singh,34,Female,Lucknow,Clothing,7600,Net Banking,Weekly,1
+179,Arjun Gupta,46,Male,Lucknow,Electronics,8400,Cash,Daily,5
+180,Sahil Agarwal,37,Male,Ghaziabad,Footwear,9500,Wallet,Weekly,1
+181,Aman Kumar,33,Female,Delhi,Beauty,14400,Wallet,Monthly,4
+182,Muskan Kumar,57,Male,Noida,Beauty,10400,Net Banking,Rarely,4
+183,Ankit Gupta,26,Female,Noida,Books,12200,Wallet,Monthly,2
+184,Muskan Mehta,26,Female,Delhi,Footwear,3400,Wallet,Weekly,3
+185,Vikas Mehta,38,Male,Meerut,Sports,7500,UPI,Monthly,2
+186,Muskan Malhotra,26,Female,Noida,Sports,4600,Wallet,Weekly,2
+187,Jhanvi Khan,54,Male,Delhi,Electronics,1400,Wallet,Monthly,2
+188,Ankit Chauhan,57,Male,Lucknow,Home & Kitchen,14200,Cash,Monthly,4
+189,Mehak Kapoor,37,Female,Noida,Home & Kitchen,1800,Card,Rarely,4
+190,Mohit Bansal,31,Female,Ghaziabad,Beauty,8400,Cash,Rarely,2
+191,Kavya Singh,38,Male,Lucknow,Electronics,7100,Net Banking,Weekly,2
+192,Karan Verma,36,Female,Jaipur,Clothing,4300,Cash,Monthly,2
+193,Vikas Saxena,50,Female,Lucknow,Beauty,13000,UPI,Daily,4
+194,Nikhil Bansal,33,Male,Meerut,Electronics,1500,Cash,Rarely,5
+195,Mohit Agarwal,52,Male,Noida,Books,3700,Cash,Monthly,4
+196,Kavya Verma,43,Male,Gurgaon,Beauty,14400,Cash,Daily,4
+197,Nikhil Bansal,53,Female,Noida,Clothing,2700,Net Banking,Monthly,3
+198,Muskan Mishra,27,Male,Jaipur,Sports,1300,UPI,Daily,2
+199,Nisha Saxena,51,Female,Ghaziabad,Sports,13400,Card,Monthly,5
+200,Yash Mehta,43,Female,Meerut,Sports,13300,Wallet,Rarely,5
